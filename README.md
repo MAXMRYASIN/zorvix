@@ -1,2 +1,507 @@
 # zorvix
 Official website for ZORVIX ($ZVX) - Community Driven Meme Coin on Solana
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>ZORVIX | The Wolf of Solana</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<nav>
+
+<div class="logo">
+
+🐺 ZORVIX
+
+</div>
+
+<ul>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#tokenomics">Tokenomics</a></li>
+
+<li><a href="#roadmap">Roadmap</a></li>
+
+<li><a href="#faq">FAQ</a></li>
+
+</ul>
+
+</nav>
+
+<section class="hero">
+
+<h1>
+
+THE WOLF OF SOLANA
+
+</h1>
+
+<p>
+
+Community Driven Meme Coin
+
+</p>
+
+<div class="buttons">
+
+<a href="#" class="buy">
+
+BUY ZVX
+
+</a>
+
+<a href="#">
+
+TELEGRAM
+
+</a>
+
+<a href="#">
+
+TWITTER
+
+</a>
+
+</div>
+
+</section>
+
+<section id="about">
+
+<h2>
+
+About ZORVIX
+
+</h2>
+
+<p>
+
+ZORVIX is a community-driven meme coin built on Solana.
+
+Fast.
+
+Transparent.
+
+Built for the future.
+
+</p>
+
+</section>
+<body style="margin:0;background:#050505;color:white;font-family:Arial,Helvetica,sans-serif;">
+
+<section style="padding:80px 20px;text-align:center;background:linear-gradient(180deg,#050505,#0d0d0d);">
+
+<h1 style="font-size:60px;color:#39FF14;margin:0;">
+🐺 ZORVIX
+</h1>
+
+<h2 style="font-size:30px;">
+The Future of Meme Coins Starts Here
+</h2>
+
+<p style="font-size:20px;color:#cfcfcf;">
+Built on Solana • Community Driven • Fast • Secure
+</p>
+
+<br>
+
+<a href="#"
+style="background:#39FF14;color:black;
+padding:15px 35px;
+text-decoration:none;
+border-radius:12px;
+font-weight:bold;
+font-size:20px;">
+🚀 Buy ZVX
+</a>
+
+</section>
+
+<section style="padding:60px 20px;text-align:center;">
+
+<h2 style="color:#39FF14;">🔥 Why ZORVIX?</h2>
+
+<p>
+⚡ Lightning Fast
+</p>
+
+<p>
+💚 Community First
+</p>
+
+<p>
+🚀 Built on Solana
+</p>
+
+<p>
+🌎 Global Community
+</p>
+
+</section>
+
+<section style="padding:60px 20px;text-align:center;background:#0f0f0f;">
+
+<h2 style="color:#39FF14;">
+📊 Tokenomics
+</h2>
+
+<p><b>Name:</b> ZORVIX</p>
+
+<p><b>Ticker:</b> ZVX</p>
+
+<p><b>Supply:</b> 1,000,000,000</p>
+
+<p><b>Network:</b> Solana</p>
+
+</section>
+
+<section style="padding:60px 20px;text-align:center;">
+
+<h2 style="color:#39FF14;">
+🗺️ Roadmap
+</h2>
+
+<p>✅ Launch</p>
+
+<p>✅ Website</p>
+
+<p>🔜 Community Growth</p>
+
+<p>🔜 Marketing</p>
+
+<p>🔜 Exchange Listings</p>
+
+</section>
+
+<footer style="padding:40px;background:black;text-align:center;color:#777;">
+
+© 2026 ZORVIX
+
+</footer>
+
+</body>
+<section id="tokenomics" style="padding:70px 20px;background:#0a0a0a;color:white;">
+
+<h2 style="color:#39FF14;font-size:38px;text-align:center;">
+TOKENOMICS
+</h2>
+
+<div style="max-width:700px;margin:auto;background:#111;padding:25px;border-radius:15px;border:2px solid #39FF14;">
+
+<p><strong>Name:</strong> ZORVIX</p>
+
+<p><strong>Ticker:</strong> ZVX</p>
+
+<p><strong>Blockchain:</strong> Solana</p>
+
+<p><strong>Total Supply:</strong> 1,000,000,000 ZVX</p>
+
+<p><strong>Tax:</strong> 0%</p>
+
+<p><strong>Community Driven</strong></p>
+
+</div>
+
+</section>
+
+<section id="roadmap" style="padding:80px 20px;background:black;color:white;">
+
+<h2 style="color:#39FF14;font-size:38px;text-align:center;">
+ROADMAP
+</h2>
+
+<div style="max-width:800px;margin:auto;">
+
+<div style="background:#111;border-left:5px solid #39FF14;padding:20px;margin:20px;border-radius:10px;">
+
+<h3>Phase 1</h3>
+
+<p>✅ Website</p>
+
+<p>✅ Social Media</p>
+
+<p>✅ Community Launch</p>
+
+</div>
+
+<div style="background:#111;border-left:5px solid #39FF14;padding:20px;margin:20px;border-radius:10px;">
+
+<h3>Phase 2</h3>
+
+<p>🚀 Marketing Campaign</p>
+
+<p>🚀 1000 Holders</p>
+
+<p>🚀 Community Growth</p>
+
+</div>
+
+<div style="background:#111;border-left:5px solid #39FF14;padding:20px;margin:20px;border-radius:10px;">
+
+<h3>Phase 3</h3>
+
+<p>🌎 Partnerships</p>
+
+<p>🌎 Major Listings (when achieved)</p>
+
+<p>🌎 Global Expansion</p>
+
+</div>
+
+</div>
+
+</section>
+/* ===== Part 4: Final Touch + Responsive + Effects ===== */
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Glow effect for title */
+h1 {
+  text-shadow: 0 0 10px #00ff88, 0 0 20px #00ff88;
+}
+
+/* Card hover animation */
+.card {
+  transition: 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 30px rgba(0, 255, 136, 0.3);
+}
+
+/* Button style */
+button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 12px;
+  background: linear-gradient(90deg, #00ff88, #00c3ff);
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px #00ff88;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 22px;
+    text-align: center;
+  }
+
+  .container {
+    padding: 10px;
+  }
+
+  .card {
+    margin-bottom: 15px;
+  }
+}
+/* ===== Part 5: JavaScript Interactions ===== */
+
+<script>
+// Smooth fade-in animation on load
+document.addEventListener("DOMContentLoaded", () => {
+  document.body.style.opacity = "0";
+  document.body.style.transition = "1s ease";
+  
+  setTimeout(() => {
+    document.body.style.opacity = "1";
+  }, 100);
+});
+
+// Button click effect (simple pulse)
+const buttons = document.querySelectorAll("button");
+
+buttons.forEach(btn => {
+  btn.addEventListener("click", () => {
+    btn.style.transform = "scale(0.9)";
+    setTimeout(() => {
+      btn.style.transform = "scale(1)";
+    }, 150);
+  });
+});
+
+// Copy contract address (اگر خواستی استفاده کنی)
+function copyCA(text) {
+  navigator.clipboard.writeText(text).then(() => {
+    alert("Contract Address Copied 🚀");
+  });
+}
+
+// Example: connect button (placeholder)
+function connectWallet() {
+  alert("Wallet connect coming soon 🚀");
+}
+
+// Scroll reveal effect
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add("show");
+    }
+  });
+});
+
+document.querySelectorAll(".card").forEach(el => {
+  el.classList.add("hidden");
+  observer.observe(el);
+});
+</script>
+.hidden {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: 0.6s ease;
+}
+
+.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+<button onclick="connectWallet()">Connect Phantom Wallet</button>
+
+<button onclick="buyToken()">Buy ZVX</button>
+
+<button onclick="window.open('https://pump.fun', '_blank')">
+  Launch on Pump.fun
+</button>
+<script>
+let walletAddress = null;
+
+// Connect Phantom Wallet
+async function connectWallet() {
+  try {
+    const provider = window.solana;
+
+    if (!provider || !provider.isPhantom) {
+      alert("Phantom Wallet not found!");
+      return;
+    }
+
+    const response = await provider.connect();
+    walletAddress = response.publicKey.toString();
+
+    alert("Connected: " + walletAddress);
+  } catch (err) {
+    console.log(err);
+    alert("Wallet connection failed");
+  }
+}
+
+// Fake Buy Button (placeholder for DEX integration)
+function buyToken() {
+  if (!walletAddress) {
+    alert("First connect your wallet!");
+    return;
+  }
+
+  alert("Redirecting to swap... 🚀");
+
+  // اینجا بعداً می‌تونی Raydium/Jupiter بذاری
+  window.open("https://jup.ag", "_blank");
+}
+</script>
+<div style="margin-top:20px;">
+  <a href="https://twitter.com" target="_blank">Twitter</a> |
+  <a href="https://t.me" target="_blank">Telegram</a> |
+  <a href="https://pump.fun" target="_blank">Pump.fun</a>
+</div>
+<div class="card">
+  <h2>Token Info</h2>
+  <p>Symbol: ZVX</p>
+  <p>Network: Solana</p>
+  <p>Supply: 1,000,000,000</p>
+</div>
+<div class="card">
+  <h2>Contract Address</h2>
+  <p onclick="copyCA('YOUR_CONTRACT_ADDRESS_HERE')" style="cursor:pointer;">
+    Click to copy CA
+  </p>
+</div>
+<div class="card">
+  <h2>Roadmap</h2>
+  <p>Phase 1: Launch ZVX 🚀</p>
+  <p>Phase 2: Community Growth 📈</p>
+  <p>Phase 3: CEX Listing 💎</p>
+  <p>Phase 4: Ecosystem Expansion 🌐</p>
+</div>
+<div class="card">
+  <h2>Live Price</h2>
+  <p id="priceText">$0.000001</p>
+</div>
+<script>
+setInterval(() => {
+  let price = (Math.random() * 0.00001).toFixed(8);
+  document.getElementById("priceText").innerText = "$" + price;
+}, 3000);
+</script>
+<div style="margin-top:20px; font-size:12px; opacity:0.6;">
+  Disclaimer: This is a meme coin. Always DYOR.
+</div>
+<script>
+// Smooth scroll + back to top button
+let btn = document.createElement("button");
+btn.innerText = "↑ Top";
+btn.style.position = "fixed";
+btn.style.bottom = "20px";
+btn.style.right = "20px";
+btn.style.padding = "10px";
+btn.style.borderRadius = "10px";
+btn.style.border = "none";
+btn.style.cursor = "pointer";
+btn.style.background = "#00ff88";
+
+document.body.appendChild(btn);
+
+btn.onclick = () => {
+  window.scrollTo({ top: 0, behavior: "smooth" });
+};
+</script>
+<script>
+let supply = 1000000000;
+let display = document.createElement("div");
+display.style.marginTop = "20px";
+display.style.fontWeight = "bold";
+document.body.appendChild(display);
+
+setInterval(() => {
+  let burned = Math.floor(Math.random() * 1000);
+  supply -= burned;
+  display.innerText = "Total Supply: " + supply.toLocaleString();
+}, 4000);
+</script>
+body {
+  animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
